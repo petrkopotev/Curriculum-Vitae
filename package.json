@@ -1,0 +1,10 @@
+{
+  "name": "Curriculum-Vitae",
+  "version": "0.0.1",
+  "description": "Curriculum-Vitae",
+  "author": "Petr Kopotev",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1"
+  }
+}
